@@ -1,0 +1,5 @@
+[template]
+src = 'application.conf.tmpl'
+dest = '/opt/cerebro/conf/application.conf'
+uid = 1000
+gid = 1000
